@@ -1,0 +1,164 @@
+1,bj5.edges,17467,10000,1
+2,bj5.edges,17467,10000,3
+3,bj5.edges,8754,10000,3
+4,bj5.edges,34152,10000,3
+5,bj5.edges,65500,10000,3
+6,bj5.edges,17467,10000,6
+7,bj5.edges,17467,10000,8
+8,bj5.edges,17467,15000,1
+9,bj5.edges,17467,15000,3
+10,bj5.edges,8754,15000,3
+11,bj5.edges,34152,15000,3
+12,bj5.edges,65500,15000,3
+13,bj5.edges,17467,15000,6
+14,bj5.edges,17467,15000,8
+15,bj5.edges,17467,1000,1
+16,bj5.edges,17467,1000,3
+17,bj5.edges,8754,1000,3
+18,bj5.edges,34152,1000,3
+19,bj5.edges,65500,1000,3
+20,bj5.edges,17467,1000,6
+21,bj5.edges,17467,1000,8
+22,bj5.edges,17467,20000,1
+23,bj5.edges,17467,20000,3
+24,bj5.edges,8754,20000,3
+25,bj5.edges,34152,20000,3
+26,bj5.edges,65500,20000,3
+27,bj5.edges,17467,20000,6
+28,bj5.edges,17467,20000,8
+29,bj5.edges,17467,25000,1
+30,bj5.edges,17467,25000,3
+31,bj5.edges,8754,25000,3
+32,bj5.edges,34152,25000,3
+33,bj5.edges,65500,25000,3
+34,bj5.edges,17467,25000,6
+35,bj5.edges,17467,25000,8
+36,bj5.edges,17467,30000,1
+37,bj5.edges,17467,30000,3
+38,bj5.edges,8754,30000,3
+39,bj5.edges,34152,30000,3
+40,bj5.edges,65500,30000,3
+41,bj5.edges,17467,30000,6
+42,bj5.edges,17467,30000,8
+43,bj5.edges,17467,35000,1
+44,bj5.edges,17467,35000,3
+45,bj5.edges,8754,35000,3
+46,bj5.edges,34152,35000,3
+47,bj5.edges,65500,35000,3
+48,bj5.edges,17467,35000,6
+49,bj5.edges,17467,35000,8
+50,bj5.edges,17467,40000,1
+51,bj5.edges,17467,40000,3
+52,bj5.edges,8754,40000,3
+53,bj5.edges,34152,40000,3
+54,bj5.edges,65500,40000,3
+55,bj5.edges,17467,40000,6
+56,bj5.edges,17467,40000,8
+57,bj5.edges,17467,45000,1
+58,bj5.edges,17467,45000,3
+59,bj5.edges,8754,45000,3
+60,bj5.edges,34152,45000,3
+61,bj5.edges,65500,45000,3
+62,bj5.edges,17467,45000,6
+63,bj5.edges,17467,45000,8
+64,bj5.edges,17467,50000,1
+65,bj5.edges,17467,50000,3
+66,bj5.edges,8754,50000,3
+67,bj5.edges,34152,50000,3
+68,bj5.edges,65500,50000,3
+69,bj5.edges,17467,50000,6
+70,bj5.edges,17467,50000,8
+71,bj5.edges,17467,5000,1
+72,bj5.edges,17467,5000,3
+73,bj5.edges,8754,5000,3
+74,bj5.edges,34152,5000,3
+75,bj5.edges,65500,5000,3
+76,bj5.edges,17467,5000,6
+77,bj5.edges,17467,5000,8
+78,cd1.edges,8922,10000,3
+79,cd1.edges,8922,15000,3
+80,cd1.edges,8922,1000,3
+81,cd1.edges,8922,20000,3
+82,cd1.edges,8922,25000,3
+83,cd1.edges,8922,30000,3
+84,cd1.edges,8922,35000,3
+85,cd1.edges,8922,40000,3
+86,cd1.edges,8922,45000,3
+87,cd1.edges,8922,50000,3
+88,cd1.edges,8922,5000,3
+89,mny.edges,5033,10000,3
+90,mny.edges,5033,15000,3
+91,mny.edges,5033,1000,3
+92,mny.edges,5033,20000,3
+93,mny.edges,5033,25000,3
+94,mny.edges,5033,30000,3
+95,mny.edges,5033,35000,3
+96,mny.edges,5033,40000,3
+97,mny.edges,5033,45000,3
+98,mny.edges,5033,50000,3
+99,mny.edges,5033,5000,3
+100,bj5.edges,17467,10000, random_mix
+101,bj5.edges,8754,10000, random_mix
+102,bj5.edges,34152,10000, random_mix
+103,bj5.edges,65500,10000, random_mix
+104,bj5.edges,17467,15000, random_mix
+105,bj5.edges,8754,15000, random_mix
+106,bj5.edges,34152,15000, random_mix
+107,bj5.edges,65500,15000, random_mix
+108,bj5.edges,17467,1000, random_mix
+109,bj5.edges,8754,1000, random_mix
+110,bj5.edges,34152,1000, random_mix
+111,bj5.edges,65500,1000, random_mix
+112,bj5.edges,17467,20000, random_mix
+113,bj5.edges,8754,20000, random_mix
+114,bj5.edges,34152,20000, random_mix
+115,bj5.edges,65500,20000, random_mix
+116,bj5.edges,17467,25000, random_mix
+117,bj5.edges,8754,25000, random_mix
+118,bj5.edges,34152,25000, random_mix
+119,bj5.edges,65500,25000, random_mix
+120,bj5.edges,17467,30000, random_mix
+121,bj5.edges,8754,30000, random_mix
+122,bj5.edges,34152,30000, random_mix
+123,bj5.edges,65500,30000, random_mix
+124,bj5.edges,17467,35000, random_mix
+125,bj5.edges,8754,35000, random_mix
+126,bj5.edges,34152,35000, random_mix
+127,bj5.edges,65500,35000, random_mix
+128,bj5.edges,17467,40000, random_mix
+129,bj5.edges,8754,40000, random_mix
+130,bj5.edges,34152,40000, random_mix
+131,bj5.edges,65500,40000, random_mix
+132,bj5.edges,17467,45000, random_mix
+133,bj5.edges,8754,45000, random_mix
+134,bj5.edges,34152,45000, random_mix
+135,bj5.edges,65500,45000, random_mix
+136,bj5.edges,17467,50000, random_mix
+137,bj5.edges,8754,50000, random_mix
+138,bj5.edges,34152,50000, random_mix
+139,bj5.edges,65500,50000, random_mix
+140,bj5.edges,17467,5000, random_mix
+141,bj5.edges,8754,5000, random_mix
+142,bj5.edges,34152,5000, random_mix
+143,bj5.edges,65500,5000, random_mix
+144,cd1.edges,8922,10000, random_mix
+145,cd1.edges,8922,15000, random_mix
+146,cd1.edges,8922,1000, random_mix
+147,cd1.edges,8922,20000, random_mix
+148,cd1.edges,8922,25000, random_mix
+149,cd1.edges,8922,30000, random_mix
+150,cd1.edges,8922,35000, random_mix
+151,cd1.edges,8922,40000, random_mix
+152,cd1.edges,8922,45000, random_mix
+153,cd1.edges,8922,50000, random_mix
+154,cd1.edges,8922,5000, random_mix
+155,mny.edges,5033,10000, random_mix
+156,mny.edges,5033,15000, random_mix
+157,mny.edges,5033,1000, random_mix
+158,mny.edges,5033,20000, random_mix
+159,mny.edges,5033,25000, random_mix
+160,mny.edges,5033,30000, random_mix
+161,mny.edges,5033,35000, random_mix
+162,mny.edges,5033,40000, random_mix
+163,mny.edges,5033,45000, random_mix
+164,mny.edges,5033,50000, random_mix
