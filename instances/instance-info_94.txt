@@ -1,0 +1,5 @@
+mny.edges
+instances/instance_94-riders.csv	5033
+instances/instance_94-vehicles.csv	30000
+capacity:	3
+original_instance:	original_instances/rs-mny-m30k-c3-d6-s10-x1.0.instance

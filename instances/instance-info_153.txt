@@ -1,0 +1,5 @@
+cd1.edges
+instances/instance_153-riders.csv	8922
+instances/instance_153-vehicles.csv	50000
+capacity:	 random_mix
+original_instance:	original_instances/rs-cd1-m50k-c3-d6-s10-x1.0.instance

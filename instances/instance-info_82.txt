@@ -1,0 +1,5 @@
+cd1.edges
+instances/instance_82-riders.csv	8922
+instances/instance_82-vehicles.csv	25000
+capacity:	3
+original_instance:	original_instances/rs-cd1-m25k-c3-d6-s10-x1.0.instance

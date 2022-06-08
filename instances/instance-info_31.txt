@@ -1,0 +1,5 @@
+bj5.edges
+instances/instance_31-riders.csv	8754
+instances/instance_31-vehicles.csv	25000
+capacity:	3
+original_instance:	original_instances/rs-bj5-m25k-c3-d6-s10-x0.5.instance

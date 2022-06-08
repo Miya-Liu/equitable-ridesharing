@@ -1,0 +1,5 @@
+bj5.edges
+instances/instance_104-riders.csv	17467
+instances/instance_104-vehicles.csv	15000
+capacity:	 random_mix
+original_instance:	original_instances/rs-bj5-m15k-c1-d6-s10-x1.0.instance

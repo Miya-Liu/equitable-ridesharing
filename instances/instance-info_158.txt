@@ -1,0 +1,5 @@
+mny.edges
+instances/instance_158-riders.csv	5033
+instances/instance_158-vehicles.csv	20000
+capacity:	 random_mix
+original_instance:	original_instances/rs-mny-m20k-c3-d6-s10-x1.0.instance
