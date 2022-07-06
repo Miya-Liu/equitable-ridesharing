@@ -1,6 +1,6 @@
 # Equitable Ridesharing Project
 
-This project shows how we design a ridesharing system which is Efficient (optimality-aware), Sustainable (environment-aware) and Equitable (preference-aware). 
+This project shows our design of a ridesharing system which is Efficient (optimality-aware), Sustainable (environment-aware) and Equitable (preference-aware). 
 
 ### Benchmark Instance
 
